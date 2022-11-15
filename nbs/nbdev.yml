@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bop"
+  site-url: "https://ADubinA.github.io/bop"
+  description: "My Bayesian Optimal Predictor research"
+  repo-branch: main
+  repo-url: "https://github.com/ADubinA/bop"
